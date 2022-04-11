@@ -1,5 +1,5 @@
-# `<Título em Português do Projeto>`
-# `<Project Title in in English>`
+# `Algoritmo de Compressão de Imagens`
+# `Image Compression Algorithm`
 
 ## Apresentação
 
@@ -18,23 +18,21 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 > Subseções podem ser criadas para organizar o texto.
 
 ## Plano de Trabalho
-> Nesta primeira entrega, seu grupo deve ser capaz de identificar quais são as etapas necessárias para alcançar o objetivo proposto.
-> Nesta seção, identifique claramente essas etapas, estimando o tempo que o seu grupo gastará em cada uma delas.
-> Por exemplo:
-> * Etapa 1 (1 semana): Estudo de técnicas de segmentação de imagens
-> 
+> * Etapa 1 (1 semana): Planejamento e arguição da proposta de projeto. 
 >     Descrição do que será realizado na Etapa 1.
-> * Etapa 2 (1 semana): Obtenção de dados pública de imagens de laranjas
-> 
+> * Etapa 2 (1 semana): Estudo de técnicas de compressão de imagens.
 >     Descrição do que será realizado na Etapa 2.
->     
-> * Etapa 3 (2 semanas): Codificação e Testes.
-> 
+> * Etapa 3 (1 semana): Obtenção de dados para compressão e estudos de técnicas de compressão.
 >     Descrição do que será realizado na Etapa 3.
->     
-> e assim por diante.
+> * Etapa 4 (3 semanas): Escrever código de compressão de imagens e fazer testes.
 > 
-> Inclua no seu plano de trabalho a etapa de escrita de relatório final do projeto.
-
+> * Etapa 5 (1 semanas): Estudo de ténicas de descompressão de imagens.
+> 
+> * Etapa 6 (3 semanas): Escrita de código e testes de descompressão de imagens.
+> 
+> * Etapa 7 (2 semanas): Ajustes finais, escrita do relatório final e preparação para apresentação.
+> 
+> 
 ## Referências Bibliográficas
-> Nesta primeira entrega do projeto você já deve apontar as referências bibliográficas iniciais que você adotará no projeto.
+> GONZALEZ, Rafael C.; WOODS, Richard E. **Digital Image Processing**. 2nd ed., 2002.
+> 
