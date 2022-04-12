@@ -13,9 +13,7 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 
 
 ## Descrição do Projeto
-> Descrição do tema do projeto, incluindo contexto gerador, motivação.
-> Descrição do objetivo principal do projeto.
-> Subseções podem ser criadas para organizar o texto.
+Ao capturar uma foto, vários dados são coletados. Para esses dados se transformarem em uma imagem `.png` ou `.jpeg`, é necessário selecionar algumas informações e compactar a imagem. Atualmente, a grande maioria dos celulares e câmeras digitais faz essa compactação automaticamente e a grande maioria das pessoas não sabe que isso acontece. Como acreditamos que esse é um processo muito importante e que se encontra presente no nosso dia a dia, achamos relevante entender como ele funciona. Por isso, o trabalho tem como objetivo capturar uma imagem sem ser compactada, compactar essa foto em um dos formatos citados anteriormente e depois fazer a descompactação da mesma, na busca de ganhar consciência de como funciona todo o processo e percorrer todo o caminho de uma compactaçao e de uma descompactação de imagem.
 
 ## Plano de Trabalho
 > * Etapa 1 (1 semana): Planejamento e arguição da proposta de projeto. 
