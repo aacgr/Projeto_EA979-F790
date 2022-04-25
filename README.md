@@ -39,5 +39,6 @@ Ao capturar uma foto, vários dados são coletados. Para esses dados se transfor
 >     - Etapa de conclusão do código, testes e correções finais. Escrita do relatório final e preparação para a apresentação.
 > 
 ## Referências Bibliográficas
-> GONZALEZ, Rafael C.; WOODS, Richard E. **Digital Image Processing**. 2nd ed., 2002.
+> 
+> * GONZALEZ, Rafael C.; WOODS, Richard E. **Digital Image Processing**. 2nd ed., 2002.
 > 
