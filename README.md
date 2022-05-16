@@ -1,5 +1,5 @@
-# `Algoritmo de Compressão e Descompressão de Imagens`
-# `Image Compression and Decompression Algorithm`
+# `Compressão de Imagens em Fotografia Digital de Celulares`
+# `Image Compression in Mobile Digital Photography`
 
 ## Apresentação
 
@@ -13,10 +13,10 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 
 
 ## Descrição do Projeto
-Ao capturar uma foto, vários dados são coletados. Para esses dados se transformarem em uma imagem `.png` ou `.jpeg`, é necessário selecionar algumas informações e compactar a imagem. Atualmente, a grande maioria dos celulares e câmeras digitais faz essa compactação automaticamente e a grande maioria das pessoas não sabe que isso acontece. Como acreditamos que esse é um processo muito importante e que se encontra presente no nosso dia a dia, achamos relevante entender como ele funciona. Por isso, o trabalho tem como objetivo capturar uma imagem sem ser compactada, compactar essa foto no formato `.png` na busca de ganhar consciência de como funciona todo o processo e percorrer todo o caminho de uma compactaçao e, se possível, de uma descompactação de imagem. Além da compressão, iremos estudar o processo de captura de imagens feitas por celular, inclusive a forma com que são salvas, se já existe algum tipo de compressão, incluindo o processo que possa estar envolvido no hardware.
+Ao capturar uma foto, vários dados são coletados. Para esses dados se transformarem em uma imagem `.png` ou `.jpeg`, é necessário selecionar algumas informações e compactar a imagem. Atualmente, a grande maioria dos celulares e câmeras digitais faz essa compactação automaticamente e a grande maioria das pessoas não sabe que isso acontece. Como acreditamos que esse é um processo muito importante e que se encontra presente no nosso dia a dia, achamos relevante entender como ele funciona. Por isso, o trabalho tem como objetivo capturar uma imagem sem ser compactada, compactar essa foto no formato `.png` na busca de ganhar consciência de como funciona todo o processo e percorrer todo o caminho de uma compactação. Além da compressão, iremos estudar o processo de captura de imagens feitas por celular, inclusive a forma com que são salvas, se já existe algum tipo de compressão, incluindo o processo que possa estar envolvido no hardware.
 
 ## Plano de Trabalho
-> * Etapa 1 (1 semana): Planejamento e arguição da proposta de projeto. 
+> * Etapa 1 (1 semana): Planejamento e organização da proposta de projeto. 
 >     
 >     - Escolha do foco do projeto e de sua aplicação, bem como organização dos passos e do tempo que será gasto em cada tarefa.
 > * Etapa 2 (2 semanas): Estudo sobre o processo de captura de imagens em celulares.
@@ -31,14 +31,13 @@ Ao capturar uma foto, vários dados são coletados. Para esses dados se transfor
 > * Etapa 5 (3 semanas): Escrever código de compressão de imagens e fazer testes.
 >     
 >     - Início da escrita do código, desenvolvendo e implementando os algoritmos necessários e início dos testes e correções quando necessário.
-> * Etapa 6 (1 semanas): Estudo de ténicas de descompressão de imagens.
->     
->     - Etapa de estudos de descompressão de imagem com algoritmo compatível ao da compressão.
 > * Etapa 7 (2 semanas): Ajustes finais e preparação para apresentação.
 >     
 >     - Etapa de conclusão do código, testes e correções finais. Escrita do relatório final e preparação para a apresentação.
 > 
 ## Referências Bibliográficas
 > 
-> * GONZALEZ, Rafael C.; WOODS, Richard E. **Digital Image Processing**. 2nd ed., 2002.
-> 
+> * Mobile Computational Photography: A Tour, disponível em <https://arxiv.org/abs/2102.09000>
+> * Jakaria Ahmad, Md. Mustafijur Rahman Faysal. "Image-Processing Pipeline for Highest Quality Images", disponível em <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.2451&rep=rep1&type=pdf>
+> * PNG: The Definitive Guide by - Chapter 9. Compression and Filtering, disponível em <http://www.libpng.org/pub/png/book/chapter09.html>
+> * Blahnik, Vladan and Schindelbeck, Oliver. "Smartphone imaging technology and its applications" Advanced Optical Technologies, vol. 10, no. 3, 2021, pp. 145-232. <https://doi.org/10.1515/aot-2021-0023>
