@@ -51,7 +51,6 @@ Estudo sobre os processos envolvidos entre a captura de imagens em celulares e s
 > Na entrega parcial do projeto (E2) pode conter informações sobre quais etapas ou como o projeto será conduzido até a sua finalização.
 > Na entrega final do projeto (E3) espera-se que a conclusão elenque, dentre outros aspectos, possibilidades de continuidade do projeto.
 
-
 ## Referências Bibliográficas
 > 
 > * Mobile Computational Photography: A Tour, disponível em <https://arxiv.org/abs/2102.09000>
